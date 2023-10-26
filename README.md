@@ -13,7 +13,7 @@ Avoid falling off the side and the bottom floor as you try to get to the top fas
 
 <img src="https://github.com/muratkrdl/Out-Jump/blob/main/Picture.png" width="auto">
 
-<img src="https://github.com/muratkrdl/Out-Jump/blob/main/Gameplay.gif" width="450">
+<img src="https://github.com/muratkrdl/Out-Jump/blob/main/Gameplay.gif" width="525">
 
 
 ## Authors
